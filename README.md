@@ -139,25 +139,28 @@ I create scalable solutions that bridge the gap between cutting-edge technology 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jasleenk12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jasleenk12&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasleenk12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Jasleenk12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasleenk12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jasleenk12&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Jasleenk12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Contribution Stats"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Jasleenk12&theme=tokyonight&hide_border=true" alt="Contributor Stats"/>
 </td>
 </tr>
 </table>
+
+</div>
+
 
 ### 📈 Detailed Activity Graph
 
@@ -433,16 +436,7 @@ Modern web applications with Next.js & React
 
 *For professional inquiries*
 
-</td>
-<td align="center" width="33%">
 
-**📱 Phone**
-
-+91 xxxxxxxxxx
-
-*Available for calls*
-
-</td>
 <td align="center" width="33%">
 
 **💼 LinkedIn**
