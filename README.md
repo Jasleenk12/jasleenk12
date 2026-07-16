@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_Focus-AI/ML_Development-00d4ff?style=for-the-badge&labelColor=0a0e27&color=00d4ff" alt="Focus"/>
   <img src="https://img.shields.io/badge/📚_Learning-NLP_|_Generative_AI_|_Cloud-00ff87?style=for-the-badge&labelColor=0a0e27&color=00ff87" alt="Learning"/>
-  <img src="https://img.shields.io/badge/🏆_CGPA-8.07-ff0080?style=for-the-badge&labelColor=0a0e27&color=ff0080" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/🏆_CGPA-8.13-ff0080?style=for-the-badge&labelColor=0a0e27&color=ff0080" alt="CGPA"/>
   <img src="https://img.shields.io/badge/📍_Location-Punjab,_India-ff6b00?style=for-the-badge&labelColor=0a0e27&color=ff6b00" alt="Location"/>
 </p>
 
