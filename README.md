@@ -286,7 +286,7 @@ Modern web applications with Next.js & React
 <img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-blue?style=for-the-badge" alt="Degree"/>
 
 📅 Aug 2023 - Present  
-⭐ **CGPA: 8.07/10**
+⭐ **CGPA: 8.13/10**
 
 *Specialization in Artificial Intelligence & Machine Learning*
 
